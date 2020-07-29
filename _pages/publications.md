@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 * Beta Decay of Molecular Tritium
+
 Y.-T. Lin *et at.* (the TRIMS Collaboration)
+
 [Phys. Rev. Lett. 124, 222502 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.222502)
 
 {% if author.googlescholar %}
