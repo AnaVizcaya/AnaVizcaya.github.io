@@ -24,3 +24,11 @@ author_profile: true
 * High-resolution spectroscopy of gaseous <sup>83m</sup>Kr conversion electrons with the KATRIN experiment
   * K Altenmüller *et al.* (the KATRIN Collaboration)
   * [J.Phys.G 47 (2020) 6, 065002](https://iopscience.iop.org/article/10.1088/1361-6471/ab8480/meta)
+  
+* Gamma-induced background in the KATRIN main spectrometer
+  * K. Altenmüller *et al.* (the KATRIN Collaboration)
+  * [Eur. Phys .J. C 79 (2019) 9, 807](https://epjc.epj.org/articles/epjc/abs/2019/09/10052_2019_Article_7320/10052_2019_Article_7320.html)
+
+* Muon-induced background in the KATRIN main spectrometer 
+  * K. Altenmüller *et al.* (the KATRIN Collaboration)
+  * [Astroparticle Physics, Vol. 108, pp. 40-49 (2019)](https://www.sciencedirect.com/science/article/pii/S0927650518302597?via%3Dihub)
