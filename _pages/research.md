@@ -9,4 +9,4 @@ I just want to see if this works :)
 
 And now I will try to insert an image.
 
-![Ion's Magic Gardens. This is so cool!](https://AnaVizcaya.github.io/images/WebIons.png "Philadelphia's Magic Gardens")
+![Ion's Magic Gardens. This is so cool!](https://AnaVizcaya.github.io/images/WebIons1.png "Philadelphia's Magic Gardens")
