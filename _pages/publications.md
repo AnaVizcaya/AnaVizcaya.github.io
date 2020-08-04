@@ -21,6 +21,6 @@ author_profile: true
   * M. Aker *et. al* (the KATRIN Collaboration)
   * Eur. Phys. J. C (2019) pre-print on arxiv: [1911.09633](https://arxiv.org/abs/1911.09633)
   
-* High-resolution spectroscopy of gaseous <sup>{83m}</sup>Kr conversion electrons with the KATRIN experiment
+* High-resolution spectroscopy of gaseous <sup>83m</sup>Kr conversion electrons with the KATRIN experiment
   * K Altenmüller *et. al* (the KATRIN Collaboration)
   * [J.Phys.G 47 (2020) 6, 065002](https://iopscience.iop.org/article/10.1088/1361-6471/ab8480/meta)
