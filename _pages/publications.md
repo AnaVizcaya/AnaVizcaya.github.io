@@ -38,8 +38,8 @@ author_profile: true
   * [Journal for Instrumentation, 13(8), T08005 (2018)](https://iopscience.iop.org/article/10.1088/1748-0221/13/08/T08005)
   
 *  Reduction of stored-particle background by a magnetic pulse method at the KATRIN experiment
-  * M. Arenz *et al.* (the KATRIN Collaboration)
-  * [Eur. Phys. J. C, 78:778 (2018)](https://epjc.epj.org/articles/epjc/abs/2018/09/10052_2018_Article_6244/10052_2018_Article_6244.html)
+   * M. Arenz *et al.* (the KATRIN Collaboration)
+   * [Eur. Phys. J. C, 78:778 (2018)](https://epjc.epj.org/articles/epjc/abs/2018/09/10052_2018_Article_6244/10052_2018_Article_6244.html)
   
 * Calibration of high voltages at the ppm level by the difference of <sup>83m</sup>Kr conversion electron lines at the KATRIN experiment
   * M. Arenz *et al.* (the KATRIN Collaboration)
