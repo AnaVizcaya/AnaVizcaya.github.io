@@ -5,8 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-I just want to see if this works :) 
+My reserch can be divided in the work I have done in the KATRIN Experiment and in the TRIMS experiment. 
 
-And now I will try to insert an image.
+## The KATRIN Experiment
 
 ![Ion's Magic Gardens. This is so cool!](https://AnaVizcaya.github.io/images/WebIons1.png "Philadelphia's Magic Gardens")
+
+## The TRIMS experiment
+
+
