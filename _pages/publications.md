@@ -32,3 +32,19 @@ author_profile: true
 * Muon-induced background in the KATRIN main spectrometer 
   * K. Altenmüller *et al.* (the KATRIN Collaboration)
   * [Astroparticle Physics, Vol. 108, pp. 40-49 (2019)](https://www.sciencedirect.com/science/article/pii/S0927650518302597?via%3Dihub)
+  
+* The KATRIN Superconducting Magnets: Overview and First Performance Results 
+  * M. Arenz *et al.* (the KATRIN Collaboration)
+  * [Journal for Instrumentation, 13(8), T08005 (2018)](https://iopscience.iop.org/article/10.1088/1748-0221/13/08/T08005)
+  
+*  Reduction of stored-particle background by a magnetic pulse method at the KATRIN experiment
+  * M. Arenz *et al.* (the KATRIN Collaboration)
+  * [Eur. Phys. J. C, 78:778 (2018)](https://epjc.epj.org/articles/epjc/abs/2018/09/10052_2018_Article_6244/10052_2018_Article_6244.html)
+  
+* Calibration of high voltages at the ppm level by the difference of <sup>83m</sup>Kr conversion electron lines at the KATRIN experiment
+  * M. Arenz *et al.* (the KATRIN Collaboration)
+  * [Eur. Phys. J. C, 78:368 (2018)](https://link.springer.com/article/10.1140/epjc/s10052-018-5832-y)
+  
+* First transmission of electrons and ions through the KATRIN beamline
+  * M. Arenz *et al.* (the KATRIN Collaboration)
+  * [JINST 13 P04020 (2018)](https://iopscience.iop.org/article/10.1088/1748-0221/13/04/P04020)
