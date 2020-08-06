@@ -9,7 +9,7 @@ author_profile: true
     * XXIX International Conference on Neutrino Physics (Virtual meeting 2020)
 * Ion retention, blocking and monitoring within the KATRIN experiment ([poster](https://AnaVizcaya.github.io/files/Final_AnaP_Heraeus_poster.pdf))
     * Heraeus Seminar (Bad Honnef, Germany 2019)
-* Ion retention, blocking and monitoring within the KATRIN experiment (Talk)
+* Ion retention, blocking and monitoring within the KATRIN experiment ([Talk](https://AnaVizcaya.github.io/files/AprilMeeting2019.pdf))
     * APS April Meeting (Denver, USA 2019)
 * Detecting light ions and electrons with TRIMS silicon detectors ([poster](https://AnaVizcaya.github.io/files/PosterFinal.pdf))
     * XXVIII International Conference on Neutrino Physics and Astrophysics (Heidelbergh, Germany 2018)
