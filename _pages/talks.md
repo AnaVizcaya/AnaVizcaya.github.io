@@ -7,7 +7,8 @@ author_profile: true
 
 * Ion monitoring with the KATRIN experiment (poster)
     * XXIX International Conference on Neutrino Physics (Virtual meeting 2020)
-\item \emph{Poster:} Ion retention, blocking and monitoring within the KATRIN experiment \\Heraeus Seminar (Bad Honnef, Germany 2019)
+* Ion retention, blocking and monitoring within the KATRIN experiment (poster)
+      * Heraeus Seminar (Bad Honnef, Germany 2019)
 \item \emph{Talk:} Ion retention, blocking and monitoring within the KATRIN experiment \\APS April Meeting (Denver, USA 2019)
 \item \emph{Poster:} Detecting light ions and electrons with TRIMS silicon detectors \\ XXVIII International Conference on Neutrino Physics and Astrophysics (Germany 2018)
 \item \emph{Poster:} Tritium ion monitoring during KATRIN First Tritium \\ XXVIII International Conference on Neutrino Physics (Heidelberg, Germany 2018)
