@@ -13,7 +13,7 @@ author_profile: true
     * APS April Meeting (Denver, USA 2019)
 * Detecting light ions and electrons with TRIMS silicon detectors ([poster](https://AnaVizcaya.github.io/files/PosterFinal.pdf))
     * XXVIII International Conference on Neutrino Physics and Astrophysics (Heidelbergh, Germany 2018)
-* Tritium ion monitoring during KATRIN First Tritium (poster) 
+* Tritium ion monitoring during KATRIN First Tritium ([poster](https://AnaVizcaya.github.io/files/Neutrino2018_ManuelKlein_v3.pdf)) 
     * XXVIII International Conference on Neutrino Physics (Heidelberg, Germany 2018)
 * Monitoreo del Observatorio HAWC utilizando muones verticales (poster)
    * Congreso Nacional de Física (México 2015)
