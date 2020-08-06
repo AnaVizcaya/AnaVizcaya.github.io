@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Ion monitoring with the KATRIN experiment (poster)
+* Ion monitoring with the KATRIN experiment ([poster](https://AnaVizcaya.github.io/files/PosterNeutrino2020_IonsKATRIN.pdf))
     * XXIX International Conference on Neutrino Physics (Virtual meeting 2020)
 * Ion retention, blocking and monitoring within the KATRIN experiment (poster)
     * Heraeus Seminar (Bad Honnef, Germany 2019)
