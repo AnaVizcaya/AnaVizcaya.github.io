@@ -16,4 +16,4 @@ author_profile: true
 * Tritium ion monitoring during KATRIN First Tritium (poster) 
     * XXVIII International Conference on Neutrino Physics (Heidelberg, Germany 2018)
 * Monitoreo del Observatorio HAWC utilizando muones verticales 
-   * Congreso Nacional de F\'isica (M\'exico 2015)
+   * Congreso Nacional de Física (México 2015)
