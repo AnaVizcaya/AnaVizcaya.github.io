@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My reserch can be divided in the work I have done in the KATRIN Experiment and in the TRIMS experiment. 
+My reserch can be divided in the work I have done in the KATRIN Experiment and in the TRIMS experiment. Below I give a quick overview of each experiment and of my work.
 
 ## The KATRIN Experiment
 
