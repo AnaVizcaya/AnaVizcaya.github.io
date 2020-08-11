@@ -21,4 +21,6 @@ I have been involved in the measurement planning, simulations, the data taking a
 
 ## The TRIMS experiment
 
-This will come next. 
+The TRIMS (Tritium Recoil Ion Mass Spectrometer) experiment measures the molecular tritium β decay branching ratio to the bound state <sup>3</sup>HeT<sup>+</sup>. The setup consists of a decay volume filled with T<sub>2</sub> gas and one detector at each end.  The ions and electrons are accelerated by an electric field, reach the silicon detectors and interact with the detector.
+
+I have worked on simulations of the ion detector. On data analysis  and on mantaining the analysis code. 
