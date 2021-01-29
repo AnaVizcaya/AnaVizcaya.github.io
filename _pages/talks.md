@@ -4,7 +4,8 @@ title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 ---
-
+* Studies of background ions of the KATRIN experiment(Future talk)
+    * APS April Meeting (Virtual, 2021)
 * Ion monitoring with the KATRIN experiment ([poster](https://AnaVizcaya.github.io/files/PosterNeutrino2020_IonsKATRIN.pdf))
     * XXIX International Conference on Neutrino Physics (Virtual meeting 2020)
 * Ion retention, blocking and monitoring within the KATRIN experiment ([poster](https://AnaVizcaya.github.io/files/Final_AnaP_Heraeus_poster.pdf))
