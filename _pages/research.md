@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently working in two experiments: the KATRIN Experiment and the TRIMS experiment. Below I give a quick overview of each experiment and of my research in each.
+# Research done during my PhD
+
+While in graduate school I was a collaborator in two experiments: the KATRIN Experiment and the TRIMS experiment. Below I give a quick overview of each experiment and of my research in each.
 
 ## The KATRIN Experiment
 
