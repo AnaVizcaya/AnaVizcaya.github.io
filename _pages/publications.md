@@ -5,6 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+* The DUNE Far Detector Vertical Drift Technology. Technical Design Report
+  * the DUNE Collaboration
+  * [JINST 19 (2024) 08, T08004](https://iopscience.iop.org/article/10.1088/1748-0221/19/08/T08004)
+ 
+* Improved eV-scale sterile-neutrino constraints from the second KATRIN measurement campaign
+  * the KATRIN Collaboration
+  * [Phys.Rev.D 105 (2022) 7, 072004](https://inspirehep.net/literature/2020446)
+
+* Direct neutrino-mass measurement with sub-electronvolt sensitivity
+  * the KATRIN Collaboration
+  * [Nature Phys. 18 (2022) 2, 160-166](https://inspirehep.net/literature/1863711)
+ 
+* The design, construction, and commissioning of the KATRIN experiment
+   * the KATRIN experiment
+   * [JINST 16 (2021) 08, T08015](https://inspirehep.net/literature/1850546)
+  
 * Beta Decay of Molecular Tritium
   * Y.-T. Lin *et at.* (the TRIMS Collaboration)
   * [Phys. Rev. Lett. 124, 222502 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.222502)
