@@ -9,7 +9,8 @@ author_profile: true
 Neutrinos are created, via the weak interaction, in one of three leptonic flavor eigenstates ν<sub>e</sub>, ν<sub>μ</sub>, and ν<sub>τ</sub> . In the late 1990s, the Super-Kamiokande and SNO experiments provided definite evidence that neutrinos can oscillate from one flavor to another, and in order to do so, they must have mass. This experimental discovery was recognized with the 2015 Nobel Prize for Physics. 
 
 ## The DUNE experiment
-The DUNE experiment is a next generation neutrino observatory that will be able to measure: neutrino mixing angles, neutrino charge parity violation (which can shed some light on the matter-antimatter asymmetry), and neutrino mass ordering amongst other things. It will consist of two main detectors placed along the path of a high-intensity (MW-scale) neutrino beam. 
+The DUNE experiment is a next generation neutrino observatory that will be able to measure: neutrino mixing angles, neutrino charge parity violation (which can shed some light on the matter-antimatter asymmetry), and neutrino mass ordering amongst other things. It will consist of two main detectors placed along the path of a high-intensity (MW-scale) neutrino beam. The near detector, at the Fermi National Accelerator Laboratory (FNAL) will study particle interactions near the beam source. And the far detector will be installed around 1,300 km from the source at the Sanford Underground Research Laboratory and will consist of four Liquid Argon Time Projection Chamber (LArTPC) modules. A prototype of the far detector is currently deployed at the CERN neutrino platform. ProtoDUNE consists of two LArTPCs
+
 
 # Research done during my PhD
 
