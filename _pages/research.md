@@ -11,6 +11,8 @@ Neutrinos are created, via the weak interaction, in one of three leptonic flavor
 ## The DUNE experiment
 The DUNE experiment is a next generation neutrino observatory that will be able to measure: neutrino mixing angles, neutrino charge parity violation (which can shed some light on the matter-antimatter asymmetry), and neutrino mass ordering amongst other things. It will consist of two main detectors placed along the path of a high-intensity (MW-scale) neutrino beam. The near detector, at the Fermi National Accelerator Laboratory (FNAL) will study particle interactions near the beam source. And the far detector will be installed around 1,300 km from the source at the Sanford Underground Research Laboratory and will consist of four Liquid Argon Time Projection Chamber (LArTPC) modules. A prototype of the far detector is currently deployed at the CERN neutrino platform. ProtoDUNE consists of two LArTPCs
 
+To ensure the reproducibility of ProtoDUNE’s results, to correctly reconstruct and analyze the data, and to monitor the conditions metadata, I am leading the development, operation, and maintenance of the conditions database. This work requires a detailed knowledge of the whole experiment, from the beam instrumentation, to the DAQ system. I am developing the conditions database and the software that allows users to access the data. And I maintain the run conditions table which includes information from several different sources in the experiment.
+
 
 # Research done during my PhD
 
