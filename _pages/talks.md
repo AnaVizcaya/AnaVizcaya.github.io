@@ -4,6 +4,11 @@ title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 ---
+
+* The Deep Underground Neutrino Experiment
+    * Baylor University, Department of Physics Colloquia (2024)
+* DUNE Database Development (poster)
+    * 26th International Conference on Computing in High Energy & Nuclear Physics (CHEP 2023)
 * Studies of background ions of the KATRIN experiment (talk)
     * APS April Meeting (Virtual, 2021)
 * Ion monitoring with the KATRIN experiment ([poster](https://AnaVizcaya.github.io/files/PosterNeutrino2020_IonsKATRIN.pdf))
